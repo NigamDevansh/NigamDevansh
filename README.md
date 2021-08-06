@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NigamDevansh
 - 👀 I’m interested in Web development, competitive coding and crypto (#ETHforEternity) (⌐■_■)
-- 🌱 I’m currently learning web development (mostly)
+- 🌱 I’m currently learning javascript (mostly)
 - 💞️ I’m looking to collaborate on web based projects which will help in gaining more knowledge
 - 📫 How to reach me ...
 
